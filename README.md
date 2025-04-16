@@ -1,4 +1,10 @@
-## Hi there 👋
+## Acerca de
+Soy un Estudiante con sueños como muchos
+en este repositorio subire mis proyectos...
+y a lo mejor cada avanze que llegue a tener..
+si... intentas hacer OSINT por algun motivo..
+Te deseo lo mejor :)
+
 
 <!--
 **Budasker/budasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
