@@ -1,22 +1,46 @@
-![Texto alternativo](assets/logo-primary.png)
+# Proyecto Increíble
 
-## Acerca de
-Este es un repositorio de un estudiante
-que todo su avanze lo documentara aqui...
-su entorno favorito es Linux :)
+Este proyecto hace cosas geniales y tiene una imagen de muestra a continuación.
 
+<p align="center">
+  <img src="assets/logo-primary.png" alt="Vista previa del proyecto" width="400"/>
+</p>
 
-<!--
-**Budasker/budasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descripción
 
-Here are some ideas to get you started:
+Este es un proyecto que hace cosas increíbles y tiene como objetivo [explicar brevemente qué hace el proyecto]. ¡Es superútil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Funcionalidades:
+- Funcionalidad 1
+- Funcionalidad 2
+- Funcionalidad 3
+
+## Cómo usarlo
+
+1. Clona el repositorio
+    ```bash
+    git clone https://github.com/Budasker/budasker.git
+    ```
+2. Sigue los pasos de instalación.
+3. Ejecuta el proyecto con:
+
+    ```bash
+    ./run-proyecto
+    ```
+
+## Contribuciones
+
+Si quieres contribuir, sigue estos pasos:
+
+1. Forkea el repositorio.
+2. Crea una nueva rama para tus cambios.
+3. Realiza tus modificaciones.
+4. Haz un pull request para revisarlo.
+
+## Licencia
+
+Este proyecto tiene licencia [MIT](https://opensource.org/licenses/MIT).
+
+---
+
+¡Gracias por ver el proyecto! 😎
