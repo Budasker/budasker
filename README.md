@@ -1,3 +1,5 @@
+![Texto alternativo](assets/logo-primary.png)
+
 ## Acerca de
 Este es un repositorio de un estudiante
 que todo su avanze lo documentara aqui...
