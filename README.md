@@ -1,9 +1,7 @@
 ## Acerca de
-Soy un Estudiante con sueños como muchos
-en este repositorio subire mis proyectos...
-y a lo mejor cada avanze que llegue a tener..
-si... intentas hacer OSINT por algun motivo..
-Te deseo lo mejor :)
+Este es un repositorio de un estudiante
+que todo su avanze lo documentara aqui...
+su entorno favorito es Linux :)
 
 
 <!--
