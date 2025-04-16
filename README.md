@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/logo-primary.png" alt="Vista previa del proyecto" width="200"/>
+  <img src="assets/logo-primary.png" alt="Vista previa del proyecto" width="600"/>
 </p>
 
 ## Descripción
