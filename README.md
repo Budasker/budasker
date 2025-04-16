@@ -1,9 +1,8 @@
-# Proyecto Increíble
+# About
 
-Este proyecto hace cosas geniales y tiene una imagen de muestra a continuación.
 
 <p align="center">
-  <img src="assets/logo-primary.png" alt="Vista previa del proyecto" width="400"/>
+  <img src="assets/logo-primary.png" alt="Vista previa del proyecto" width="200"/>
 </p>
 
 ## Descripción
